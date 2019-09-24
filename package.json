@@ -23,8 +23,7 @@
   "dependencies": {
     "eslint": "^6.4.0",
     "jest": "^24.9.0",
-    "json-server": "^0.15.1",
-    "node": "^12.10.0"
+    "json-server": "^0.15.1"
   },
   "devDependencies": {}
 }

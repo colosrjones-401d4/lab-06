@@ -1,6 +1,6 @@
 # LAB - 06
 
-## HTTP and REST
+## Simple API
 
 ### Author: STEVEN JONES
 
@@ -11,24 +11,19 @@
 #### Documentation
 * [Doc](https://github.com/DeltaVCode/cr-js-401d4/tree/master/curriculum/class-06/lab)
 
-### Modules
-#### `index.js`
-#### `supergoose.js`
-#### `mongo.js`
-#### `products.js`
-#### `categories.js`
-#### `products-schema.js`
-#### `categories-schema.js'
-#### `categories.test.js'
-#### `products.test.js'
+### Modules TODO below - will changes..
+#### `data.json`
+#### `swagger.json`
+#### `routes.json`
+
 ##### Exported Values and Methods
 
 
 #### Running the app
-* `npm start`
+* `npm start to start server`
 
   
 #### Tests
-* Unit Tests: `npm run test`
+* Unit Tests: `no test`
 
 
