@@ -1,0 +1,29 @@
+{
+  "name": "lab-06",
+  "version": "1.0.0",
+  "description": "To use custom routes:\r     json-server --id=_id --watch db.json --routes routes.json",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "start": "json-server --watch data/db.json --id=_id --routes=routes.json",
+    "test": "echo \"Error: no test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colosrjones-401d4/lab-06.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/colosrjones-401d4/lab-06/issues"
+  },
+  "homepage": "https://github.com/colosrjones-401d4/lab-06#readme",
+  "dependencies": {
+    "eslint": "^6.4.0",
+    "jest": "^24.9.0",
+    "json-server": "^0.15.1"
+  },
+  "devDependencies": {}
+}
