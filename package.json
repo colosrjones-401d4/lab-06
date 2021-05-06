@@ -21,7 +21,7 @@
   "homepage": "https://github.com/colosrjones-401d4/lab-06#readme",
   "dependencies": {
     "jest": "^24.9.0",
-    "json": "^9.0.6",
+    "json": "^10.0.0",
     "json-server": "^0.15.1",
     "server": "^1.0.19"
   },
